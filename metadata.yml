@@ -1,5 +1,0 @@
-homepage: "https://www.tune.com"
-documentation: "https://developers.tune.com/javascript-sdk/javascript-sdk"
-versions:
-  - sha: insert-sha-here
-    changeNotes: Initial release.
