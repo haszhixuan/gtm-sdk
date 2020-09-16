@@ -228,7 +228,7 @@ let onFailure = function () {
     data.gtmOnFailure();
 };
 
-// A version of the "snippet" that is typically provided in the TUNE
+// ZZTEST: A version of the "snippet" that is typically provided in the TUNE
 // documentation, modified to work with Google's limited JS sandbox.
 (function () {
     let tdl = getWindow("tdl") || [];
